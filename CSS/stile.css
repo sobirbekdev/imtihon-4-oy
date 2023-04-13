@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+body{
+background-color: #E5E5E5;;
+}
+.container{
+    padding: 0 25px;
+}
+.header__box{
+    background-color: #4D44B5;
+    width: 320px; 
+    height: 870px;
+}
+
+
+.header__box_title{
+    color: #C1BBEB;
+    font-size: 30px; 
+    font-weight: bold;
+}
+.header__item__title{
+    color: #C1BBEB;
+    font-size: 20px;
+}
+.header__text{
+    font-size: 23px;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+main{
+    background-color: #fff;
+}
+.main__title{
+    font-size: 20px;
+    font-weight: bold;
+}
+#left__item{
+    cursor: pointer;
+}
+#left__item:hover{
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 8px;
+}
+#left__item >.header__item__title:hover{
+    color:#4D44B5;
+}
+.btn{
+    border: solid 2px #4D44B5;
+}
+
+/* login page  */
+
+.form__title{
+    font-size: 30px;
+    font-weight: bold;
+    color:#4D44B5;
+    margin-bottom: 25px;
+}
+
+
+/* modal  */
+
+
+
+
+
+
+
+
+
